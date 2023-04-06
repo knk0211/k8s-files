@@ -14,6 +14,6 @@ spec:
      spec:
        containers:
          - name: web-frontend
-           image: nkunta504/jenkinscicd:tag
+           image: nkunta504/jenkinscicd:10
            ports:
             - containerport: 8000
